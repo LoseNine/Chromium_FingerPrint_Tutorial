@@ -1,6 +1,8 @@
 ## 淘宝在售：《Chromium指纹浏览器开发教程》，如果愿意纸质版支持的话。
 
-## 淘宝清华大学出版社链接：https://e.tb.cn/h.he92zIK1L6j30B8?tk=aXXpVwrnLjv 
+### 淘宝清华大学出版社链接：https://e.tb.cn/h.he92zIK1L6j30B8?tk=aXXpVwrnLjv 
+
+### 基于指纹浏览器开发的过检测自动化框架，用来替代selenium：https://github.com/LoseNine/AutoWK
 
 作者：如意
 
