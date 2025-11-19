@@ -2,7 +2,7 @@
 
 ### 淘宝清华大学出版社链接：https://e.tb.cn/h.he92zIK1L6j30B8?tk=aXXpVwrnLjv 
 
-### 基于指纹浏览器开发的过检测自动化框架，用来替代selenium：https://github.com/LoseNine/AutoWK
+### 教学chromium/firefox/safari内核定制和从零修改，浏览器开发方向教程：https://www.yuque.com/u21565569/ihuyk3/xgc6hqd94fb69xxp
 
 作者：如意
 
